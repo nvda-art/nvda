@@ -51,6 +51,7 @@ dependencies = [
 	"mdx-gh-links==0.4",
 	"pyro5>=5.15",
 	"msgpack>=1.1.1",
+	"pywin32",
 ]
 
 [project.urls]
